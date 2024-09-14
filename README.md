@@ -1,1 +1,6 @@
-This Project contains all the helping functions for simple interest!!.
+
+# Neoned71 Code...
+### This Project contains all the helping functions for Business Mathematics Course at SaskPolytech!!
+ - Simple Interest
+ - Compound Interest
+ - ...More to come as covered in class...
